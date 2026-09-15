@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>微信客户辅助管理系统 · 购买入口</title>
+<!-- ============================================================
+     ★★ 活码跳转页 · 永久不变的入口 ★★
+     以后购买页换了服务器/域名，只需要把下面 TARGET_URL 引号里的
+     网址改成新地址，重新上传覆盖本文件即可。
+     本页的链接（活码）和印出去的二维码永远不用变。
+     整个文件只有这一处网址，改它就够了。
+     ============================================================ -->
+<script>
+  // ★★★ 改这里：购买页的最新地址（只改引号里的内容）★★★
+  var TARGET_URL = "https://web-demo-d7gwh3k5x284fc2fa-1307903323.tcloudbaseapp.com";
+  // ★★★ 改完保存，重新上传到 GitHub 仓库覆盖旧文件即可 ★★★
+  location.replace(TARGET_URL);
+  window.addEventListener('DOMContentLoaded', function () {
+    var a = document.getElementById('go');
+    if (a) a.href = TARGET_URL;
+  });
+</script>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: "Microsoft YaHei", sans-serif; background: #f5f6f8; color: #222; display: flex; align-items: center; justify-content: center; min-height: 100vh; }
+  .box { background: #fff; border-radius: 12px; padding: 32px; text-align: center; box-shadow: 0 1px 6px rgba(0,0,0,.08); max-width: 420px; margin: 16px; }
+  h1 { font-size: 18px; margin-bottom: 10px; }
+  p { font-size: 14px; color: #666; line-height: 1.8; margin-bottom: 18px; }
+  a.btn { display: inline-block; background: #2563eb; color: #fff; text-decoration: none; padding: 12px 28px; border-radius: 8px; font-size: 15px; }
+  .tip { font-size: 12px; color: #aaa; margin-top: 14px; }
+</style>
+</head>
+<body>
+  <noscript>
+    <p style="text-align:center;padding:20px">请用浏览器打开本页以自动跳转。</p>
+  </noscript>
+  <div class="box">
+    <h1>微信客户辅助管理系统 · 购买入口</h1>
+    <p>正在为你打开购买页面…<br>如果没有自动跳转，点下面按钮手动进入。</p>
+    <a class="btn" id="go" href="#">进入购买页</a>
+    <p class="tip">遇到问题？联系商家微信：mengji333</p>
+  </div>
+</body>
+</html>
