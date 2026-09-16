@@ -1,0 +1,7 @@
+{
+  "latest": "1.2.21",
+  "pub_date": "2026-09-16",
+  "notes": "聊天记录方向彻底修复；新增软件自动更新功能；沿用 v1.2.20 全部修复（卡死防护、开屏同步进度窗、内嵌购买页、数据报表、知识库 PDF）。",
+  "setup_url": "https://github.com/zhang29520/buy/releases/download/v1.2.21/WeChatCRM_v1.2.21_setup.exe",
+  "green_url": "https://github.com/zhang29520/buy/releases/download/v1.2.21/WeChatCRM_v1.2.21_green.zip"
+}
