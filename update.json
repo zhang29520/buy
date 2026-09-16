@@ -1,7 +1,7 @@
 {
   "latest": "1.2.22",
   "pub_date": "2026-09-16",
-  "notes": "【更新流程测试】自动重装当前最新版并验证静默更新全流程（下载→安装→重启），你的数据和授权不受影响。",
-  "setup_url": "https://github.com/zhang29520/buy/releases/download/v1.2.21/WeChatCRM_v1.2.21_setup.exe",
-  "green_url": "https://github.com/zhang29520/buy/releases/download/v1.2.21/WeChatCRM_v1.2.21_green.zip"
+  "notes": "1. 联系人数量虚高修复：不再把群里陌生成员算进联系人列表；2. 群聊系统消息（邀请入群/扫码进群）文字缺失修复，完整显示；3. 数据报表切换时间粒度立即自动刷新。你的数据和授权不受影响。",
+  "setup_url": "https://github.com/zhang29520/buy/releases/download/v1.2.22/WeChatCRM_v1.2.22_setup.exe",
+  "green_url": "https://github.com/zhang29520/buy/releases/download/v1.2.22/WeChatCRM_v1.2.22_green.zip"
 }
