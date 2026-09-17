@@ -1,7 +1,7 @@
 {
-  "latest": "1.2.22",
-  "pub_date": "2026-09-16",
-  "notes": "本次更新修复了一些已知bug，您的数据和授权不受影响。",
-  "setup_url": "https://github.com/zhang29520/buy/releases/download/v1.2.22/WeChatCRM_v1.2.22_setup.exe",
-  "green_url": "https://github.com/zhang29520/buy/releases/download/v1.2.22/WeChatCRM_v1.2.22_green.zip"
+  "latest": "1.2.23",
+  "pub_date": "2026-09-17",
+  "notes": "本次更新新增「AI 语气学习」功能：打开 设置 → AI 设置，点击「学习我的语气」，之后 AI 回复建议会模仿您自己的说话风格。另外修复了一些已知bug，您的数据和授权不受影响。",
+  "setup_url": "https://github.com/zhang29520/buy/releases/download/v1.2.23/WeChatCRM_v1.2.23_setup.exe",
+  "green_url": "https://github.com/zhang29520/buy/releases/download/v1.2.23/WeChatCRM_v1.2.23_green.zip"
 }
