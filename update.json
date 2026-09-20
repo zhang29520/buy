@@ -1,7 +1,8 @@
 {
-  "latest": "1.2.32",
+  "latest": "1.2.33",
   "notes": "本次更新修复了一些已知bug，您的数据和授权不受影响。",
-  "pan_url":"https://pan.quark.cn/s/f512ee70498a","released_at": "2026-09-18",
-  "setup_url": "https://github.com/zhang29520/buy/releases/download/v1.2.32/WeChatCRM_v1.2.32_setup.exe",
-  "green_url": "https://github.com/zhang29520/buy/releases/download/v1.2.32/WeChatCRM_v1.2.32_green.zip"
+  "pan_url": "https://pan.quark.cn/s/f512ee70498a",
+  "released_at": "2026-09-20",
+  "setup_url": "https://github.com/zhang29520/buy/releases/download/v1.2.33/WeChatCRM_v1.2.33_setup.exe",
+  "green_url": "https://github.com/zhang29520/buy/releases/download/v1.2.33/WeChatCRM_v1.2.33_green.zip"
 }
